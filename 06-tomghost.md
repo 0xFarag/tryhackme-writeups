@@ -38,6 +38,6 @@ The SSRF redirect lab explores an adjacent question: whether a system enforces a
 
 ## Evidence and references
 
-Completion was observed on the public 0xFarag profile on 25 September 2026 and matched to a room-titled entry in the existing study notes. The notes include reference material; they are not treated as an independently verified execution transcript. This report was newly written with AI assistance. See the [evidence and authorship record](EVIDENCE.md).
+Completion was observed on the public 0xFarag profile on 25 September 2026 and matched to a room-titled entry in the existing study notes. The notes include reference material; they are not treated as an independently verified execution transcript. See the [evidence and authorship record](EVIDENCE.md).
 
 - [Apache Tomcat: Security Considerations](https://tomcat.apache.org/tomcat-9.0-doc/security-howto.html)

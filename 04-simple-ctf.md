@@ -38,6 +38,6 @@ The API authorization lab provides a small example of paired vulnerable and fixe
 
 ## Evidence and references
 
-Completion was observed on the public 0xFarag profile on 25 September 2026 and matched to a room-titled entry in the existing study notes. The notes include reference material; they are not treated as an independently verified execution transcript. This report was newly written with AI assistance. See the [evidence and authorship record](EVIDENCE.md).
+Completion was observed on the public 0xFarag profile on 25 September 2026 and matched to a room-titled entry in the existing study notes. The notes include reference material; they are not treated as an independently verified execution transcript. See the [evidence and authorship record](EVIDENCE.md).
 
 - [OWASP: SQL Injection Prevention](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)

@@ -1,5 +1,7 @@
 # TryHackMe · Completed-room learning reports
 
+<p><img src="assets/0xfarag-logo.png" alt="0xFarag" width="100"></p>
+
 **0xFarag / Nasser Aldin Farag**  
 Technical reasoning · evidence quality · remediation · retest design
 
@@ -33,7 +35,7 @@ The completion record was checked on **25 September 2026**. Publication dates ar
 
 These are **learning retrospectives, not room walkthroughs**. They contain no flags, answer keys, challenge credentials, room-specific exploit code or solution sequences. No included room has been verified as designated retired. TryHackMe’s [Acceptable Use Policy, sections 8.1–8.3](https://tryhackme.com/legal/acceptable-use-policy), reviewed on 25 September 2026, governs publication of active and retired content.
 
-The writing is an AI-assisted editorial synthesis of study themes. Existing notes contain learning references as well as personal material; copied prose and third-party screenshots have not been republished. A completed-room badge does not establish an independent, unaided solve. See [EVIDENCE.md](EVIDENCE.md) for the precise scope of the evidence.
+The reports synthesize the technical themes covered in the study notes. Existing notes contain learning references as well as personal material; copied prose and third-party screenshots have not been republished. A completed-room badge does not establish an independent, unaided solve. See [EVIDENCE.md](EVIDENCE.md) for the precise scope of the evidence.
 
 For runnable exploit/fix demonstrations and executed regression tests, use the separate [Offensive Security Labs](https://github.com/0xFarag/offensive-security-labs) repository. Its synthetic fixtures are not presented as TryHackMe solutions.
 

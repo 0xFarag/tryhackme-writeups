@@ -38,6 +38,6 @@ The archive traversal and mass-assignment labs offer separate local examples of 
 
 ## Evidence and references
 
-Completion was observed on the public 0xFarag profile on 25 September 2026 and matched to a room-titled entry in the existing study notes. The notes include reference material; they are not treated as an independently verified execution transcript. This report was newly written with AI assistance. See the [evidence and authorship record](EVIDENCE.md).
+Completion was observed on the public 0xFarag profile on 25 September 2026 and matched to a room-titled entry in the existing study notes. The notes include reference material; they are not treated as an independently verified execution transcript. See the [evidence and authorship record](EVIDENCE.md).
 
 - [OWASP: File Upload](https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html)

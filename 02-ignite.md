@@ -38,7 +38,7 @@ The sample pentest report shows how a finding can connect impact, remediation an
 
 ## Evidence and references
 
-Completion was observed on the public 0xFarag profile on 25 September 2026 and matched to a room-titled entry in the existing study notes. The notes include reference material; they are not treated as an independently verified execution transcript. This report was newly written with AI assistance. See the [evidence and authorship record](EVIDENCE.md).
+Completion was observed on the public 0xFarag profile on 25 September 2026 and matched to a room-titled entry in the existing study notes. The notes include reference material; they are not treated as an independently verified execution transcript. See the [evidence and authorship record](EVIDENCE.md).
 
 - [OWASP: Secrets Management](https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html)
 - [NIST SP 800-115](https://csrc.nist.gov/pubs/sp/800/115/final)

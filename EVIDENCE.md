@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Public completed-room list for 0xFarag | The eight listed rooms appeared as completed during the review. | This is a dated observation, not a platform attestation or proof of an unaided solve. |
 | Existing CherryTree study collection | A matching room-titled note was available for each included report. | Notes include reference walkthrough material and do not establish authorship of every passage or command. |
-| Newly prepared report text | The public narrative is a fresh, AI-assisted synthesis of learning themes. | It is not a newly executed assessment or verbatim reproduction of the notes. |
+| Newly prepared report text | The public narrative synthesizes the technical themes covered in the study notes. | It is not a newly executed assessment or verbatim reproduction of the notes. |
 | General control and retest tables | Concrete criteria a reviewer could use in an authorised assessment. | These criteria are proposed; no new room retests were performed for this publication. |
 
 ## Included completion matches
