@@ -1,0 +1,15 @@
+Copyright © 2026 Nasser Aldin Farag (0xFarag).
+
+Rights legally held by Nasser Aldin Farag in his own protectable contributions
+remain reserved to him, subject to the permissions already granted.
+
+Publication does not itself transfer ownership or grant a general commercial
+licence. Commercial reuse requires separate written permission, subject to
+applicable law, platform terms and permissions already validly granted.
+
+Permission to use code does not itself authorise a claim of sponsorship or
+endorsement. Rights in personal branding are subject to applicable law and
+permissions already granted. Separately applicable licences and mandatory
+notices remain in force. Lawful descriptive uses remain unaffected.
+
+Permissions and licensing: https://github.com/0xFarag
