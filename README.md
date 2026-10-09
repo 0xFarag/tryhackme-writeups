@@ -50,3 +50,7 @@ Acht fachliche Lernberichte zu belegten Raumabschlüssen: mit technischer Einord
 ---
 
 Independent learning portfolio. No affiliation with or endorsement by TryHackMe is implied. Room names and linked platform material belong to their respective owners.
+
+## Rights and permissions
+
+Copyright © 2026 Nasser Aldin Farag (0xFarag). Rights in his own protectable contributions remain reserved, subject to permissions already granted. Applicable law and platform permissions remain unaffected. [Owner notice](NOTICE.txt) · [Personal branding and AuthzLedger rights](https://github.com/0xFarag/0xFarag/blob/main/AUTHZLEDGER_RIGHTS.md).
