@@ -1,15 +1,17 @@
-Copyright © 2026 Nasser Aldin Farag (0xFarag).
+Copyright © 2026 Nasser Aldin Farag (0xFarag). All rights reserved.
 
-Rights legally held by Nasser Aldin Farag in his own protectable contributions
-remain reserved to him, subject to the permissions already granted.
+Nasser Aldin Farag is the sole rights holder of these write-ups and of
+the other protectable material he created in this repository. No
+co-ownership and no general licence are granted.
 
-Publication does not itself transfer ownership or grant a general commercial
-licence. Commercial reuse requires separate written permission, subject to
-applicable law, platform terms and permissions already validly granted.
+Publication does not transfer ownership. Reproduction, modification,
+redistribution and commercial use require his prior written permission,
+except where mandatory law or the GitHub Terms of Service require
+otherwise.
 
-Permission to use code does not itself authorise a claim of sponsorship or
-endorsement. Rights in personal branding are subject to applicable law and
-permissions already granted. Separately applicable licences and mandatory
-notices remain in force. Lawful descriptive uses remain unaffected.
+Room names, platform materials and other third-party content remain the
+property of their respective owners and are not claimed here.
 
-Permissions and licensing: https://github.com/0xFarag
+Permissions and commercial licensing:
+Nasser Aldin Farag / 0xFarag
+https://github.com/0xFarag
